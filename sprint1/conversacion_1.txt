@@ -1,0 +1,94 @@
+User: actua como un ingeniero de prompts y ayudame a construir un prompt que me permita desarrollar guiones de texto permitan conocer:
+
+El tipo de características económicas, demográficas, de edad y otro factores que estimes importantes a considerar en una audiencia que sigue a un equipo de béisbol en Estados Unidos (perfiles),
+
+Las diferencias que existen entre audiencias tradicionales y jóvenes que siguen al equipo de béisbol de Montana, tanto en redes sociales como asistiendo físicamente a estadios, considerando la información de perfiles que es relevante de acuerdo a la respuesta del punto anterior,asegurate que estos cumplan con una semantica clara y  haz uzo de templates para asegurar la reutilizacion de los mismos con diferente data.
+ChatGPT said:
+ChatGPT
+Memory updated
+Aquí te dejo un prompt detallado que puedes utilizar para desarrollar guiones de texto sobre las características económicas, demográficas, de edad y otros factores clave que definen a una audiencia que sigue a un equipo de béisbol en Estados Unidos. Además, incluye una sección específica para las diferencias entre audiencias tradicionales y jóvenes, y está diseñado para ser reutilizable con diferentes conjuntos de datos:
+
+Prompt para Descripción de Perfiles de Audiencia de un Equipo de Béisbol en Estados Unidos
+
+Contexto:
+Estoy realizando un análisis para identificar los perfiles de audiencia que siguen a un equipo de béisbol en Estados Unidos. Los datos incluyen características económicas, demográficas, de edad, y otros factores relevantes. Además, necesito comparar cómo las audiencias tradicionales y jóvenes se comportan en plataformas sociales y en eventos físicos (estadios).
+
+1. Definir perfiles de audiencia: Desarrolla un perfil detallado de la audiencia que sigue a un equipo de béisbol en Estados Unidos, incluyendo los siguientes factores:
+
+Características económicas: Nivel de ingresos, ocupación, poder adquisitivo, patrones de consumo relacionados con eventos deportivos.
+Características demográficas: Sexo, ubicación geográfica (urbana, rural, suburbana), estado civil, nivel educativo.
+Edad: Distribución de edades, grupos etarios más predominantes.
+Otros factores: Intereses relacionados (otros deportes, hobbies), lealtad a marcas deportivas, participación en actividades comunitarias o deportivas.
+Formato de respuesta:
+Proporciona la información en una estructura clara con títulos por cada categoría (económica, demográfica, etc.). Asegúrate de incluir al menos tres datos clave para cada categoría.
+
+2. Comparación entre audiencias tradicionales y jóvenes: Identifica las diferencias entre las audiencias tradicionales (mayores de 40 años) y jóvenes (menores de 30 años) que siguen al equipo de béisbol de Montana. La comparación debe considerar los perfiles definidos en el punto anterior y analizar lo siguiente:
+
+Asistencia a estadios: ¿Cómo varía la asistencia física al estadio entre las audiencias tradicionales y jóvenes? ¿Qué factores influyen en esta diferencia?
+Redes sociales: ¿Qué plataformas de redes sociales son más utilizadas por cada grupo? ¿Cómo difieren sus patrones de interacción (frecuencia de publicación, tipos de contenido compartido)?
+Preferencias de consumo de contenido: ¿Prefieren los jóvenes contenido multimedia (videos cortos, resúmenes de juegos) mientras que los tradicionales prefieren resúmenes más largos o en medios tradicionales?
+Patrones de gasto: ¿Cómo varía el gasto entre ambos grupos en merchandising, entradas a juegos, y suscripciones a servicios de streaming?
+Formato de respuesta:
+Presenta un esquema comparativo utilizando tablas o puntos claros de diferencia. Utiliza oraciones que comparen directamente los comportamientos, preferencias y datos de asistencia de ambos grupos.
+
+Template reutilizable:
+Utiliza los siguientes placeholders en el template para adaptarlo a distintos equipos y audiencias:
+
+{team_name} para el nombre del equipo.
+{city_name} para la ubicación del equipo.
+{age_group_1} y {age_group_2} para definir los rangos de edad.
+{platforms_social_media} para listar las redes sociales clave.
+{economic_factors} para factores económicos.
+{demographic_factors} para factores demográficos.
+Este prompt no solo es detallado, sino que también asegura que la estructura sea clara y que puedas reutilizar el formato con diferentes datasets, equipos o ubicaciones. ¿Hay algo más que quieras agregar o ajustar?
+You said:
+incluye los placeholder directamente en la respuesta y ademas asegurate de comenzar el prompt diciendo asignando un rol junto con una instruccion de tal modo que encamines la respuesta a como lo haria un experto en la materia
+ChatGPT said:
+ChatGPT
+Aquí tienes el prompt ajustado con los placeholders y la asignación de rol al inicio. La estructura facilita que un experto en la materia responda adecuadamente y permite la reutilización de los templates.
+Prompt para Descripción de Perfiles de Audiencia de un Equipo de Béisbol en Estados Unidos
+
+Rol asignado:
+Actúa como un experto en análisis de audiencias deportivas especializado en identificar y comparar características de distintos grupos demográficos, económicos y sociales que siguen a equipos de béisbol en Estados Unidos. Proporciona una respuesta clara, estructurada y basada en datos, enfocada en el equipo de béisbol de {team_name} ubicado en {city_name}.
+
+Instrucción:
+Debes realizar un análisis exhaustivo de las audiencias que siguen al equipo de béisbol. Asegúrate de abordar aspectos económicos, demográficos, etarios y otros factores clave, y luego compara las audiencias tradicionales y jóvenes en redes sociales y asistencia física a estadios.
+
+1. Definir perfiles de audiencia:
+Desarrolla un perfil detallado de la audiencia que sigue al equipo de béisbol de {team_name}, incluyendo las siguientes categorías:
+
+Características económicas:
+Describe el nivel de ingresos promedio ({economic_factors_income}), ocupaciones predominantes ({economic_factors_jobs}), y el poder adquisitivo ({economic_factors_spending_power}) de la audiencia. Considera también patrones de gasto en entradas, merchandising y eventos deportivos relacionados.
+
+Características demográficas:
+Define la distribución por sexo ({demographic_factors_gender}), la ubicación geográfica ({demographic_factors_location}), estado civil ({demographic_factors_marital_status}) y el nivel educativo ({demographic_factors_education}) de la audiencia.
+
+Edad:
+Proporciona una distribución de edades predominantes, con énfasis en los grupos de {age_group_1} y {age_group_2}. Indica qué grupos etarios tienen más presencia en el estadio o en interacciones digitales.
+
+Otros factores relevantes:
+Identifica los intereses adicionales, como la afinidad por otros deportes ({other_interests_sports}), la lealtad a marcas deportivas ({brand_loyalty}), y la participación en eventos comunitarios o deportivos locales ({community_engagement}).
+
+Formato de respuesta esperado:
+
+Organiza la respuesta en un formato claro y jerárquico, donde cada categoría tenga su propio título y al menos tres datos clave que respalden el análisis.
+
+2. Comparación entre audiencias tradicionales y jóvenes:
+Compara las audiencias tradicionales (mayores de {age_group_1}) y jóvenes (menores de {age_group_2}) que siguen al equipo de béisbol de {team_name}. Realiza esta comparación en los siguientes puntos clave:
+
+Asistencia a estadios:
+¿Cuál es la frecuencia de asistencia al estadio entre audiencias tradicionales y jóvenes? Describe cómo la accesibilidad y el interés en eventos presenciales varían entre ambos grupos ({attendance_factors}). Por ejemplo, los {age_group_1} pueden preferir juegos de temporada regular, mientras que los {age_group_2} pueden asistir más a eventos promocionales o interactivos.
+
+Plataformas de redes sociales:
+¿Qué plataformas de redes sociales usan con mayor frecuencia? Compara la popularidad de {platforms_social_media_traditional} (para audiencias mayores) con {platforms_social_media_young} (para audiencias jóvenes). Describe la interacción y los patrones de publicación para ambos grupos.
+
+Preferencias de consumo de contenido:
+¿Qué tipos de contenido prefieren ambos grupos? Indica si los jóvenes prefieren contenido multimedia corto como resúmenes de jugadas destacadas ({content_type_young}) y si los tradicionales prefieren informes detallados o transmisiones completas ({content_type_traditional}).
+
+Patrones de gasto:
+¿Cómo varía el gasto entre ambos grupos en entradas, merchandising y servicios de suscripción? Compara el gasto de los {age_group_1} en compras tradicionales (entradas físicas, memorabilia clásica) con el de los {age_group_2} en experiencias digitales o compras de merchandising en línea ({spending_patterns}).
+
+Formato de respuesta esperado:
+Proporciona una tabla o lista comparativa, destacando las principales diferencias en comportamiento, consumo de contenido y gasto entre las audiencias tradicionales y jóvenes.
+
+Este prompt orientado por un rol de experto guía la respuesta hacia un análisis profundo y detallado, aprovechando los placeholders para adaptarlo a diferentes equipos, datos y contextos. Esto facilita la reutilización del prompt para otras audiencias o eventos. ¿Te gustaría modificar algo más en el prompt o añadir algún otro detalle?
