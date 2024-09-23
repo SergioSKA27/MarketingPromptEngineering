@@ -1,0 +1,87 @@
+User:crea un prompt que permitan  diseñar scripts de texto con prompts que permitan conocer: Una lista de todos los equipos de baseball de los Estados Unidos, que incluya la siguiente información sobre los equipos:
+
+Nombre
+
+Apodo
+
+Año de fundación
+
+Nombre de sus respectivas mascotas
+
+IMPORTANTE:
+
+Deberás usar el valor "desconocido" para indicar los casos en los que no se pueda determinar alguno de estos valores,
+
+Deberás proporcionar lo anterior como output del prompt en formato CSV, es decir, el resultado del prompt que genere dicha tabla se deberá salvar en un archivo de texto y guardar con el formato baseball_usa_pets.csv, con el nombre correspondiente a cada columna.
+ChatGPT said:
+ChatGPT
+Aquí tienes un script de texto con un prompt detallado para obtener la lista de equipos de béisbol de los Estados Unidos junto con sus apodos, año de fundación y nombres de mascotas. El resultado debe generarse en formato CSV y guardarse como baseball_usa_pets.csv.
+
+plaintext
+Copy code
+Crea una lista de todos los equipos de béisbol en los Estados Unidos que incluya la siguiente información para cada equipo:
+
+- Nombre del equipo
+- Apodo del equipo
+- Año de fundación
+- Nombre de la mascota
+
+Para aquellos equipos donde no se pueda determinar algún valor, usa el valor "desconocido" en lugar del dato faltante. El resultado debe ser presentado en formato CSV con las siguientes columnas:
+
+1. "Nombre del equipo"
+2. "Apodo del equipo"
+3. "Año de fundación"
+4. "Nombre de la mascota"
+
+Ejemplo de salida esperada:
+
+Nombre del equipo,Apodo del equipo,Año de fundación,Nombre de la mascota New York Yankees,Yankees,1901,None Boston Red Sox,Red Sox,1901,Wally Los Angeles Dodgers,Dodgers,1883,Desconocido
+
+go
+Copy code
+
+El archivo debe llamarse `baseball_usa_pets.csv` y contener los datos de todos los equipos posibles.
+Este prompt ayudará a generar la información requerida, que luego se puede guardar en el formato de archivo CSV especificado.
+
+
+
+
+
+
+You said:
+adaptalo como prompt 
+ChatGPT said:
+ChatGPT
+Aquí tienes el prompt adaptado para generar la lista de equipos de béisbol en formato CSV:
+
+Prompt:
+
+Genera una lista de todos los equipos de béisbol de los Estados Unidos, incluyendo la siguiente información para cada equipo:
+
+Nombre del equipo
+Apodo del equipo
+Año de fundación
+Nombre de la mascota
+Si algún valor no puede ser determinado, usa "desconocido" para ese campo. El resultado debe ser un archivo en formato CSV, con las siguientes columnas:
+
+"Nombre del equipo"
+"Apodo del equipo"
+"Año de fundación"
+"Nombre de la mascota"
+El archivo debe guardarse como baseball_usa_pets.csv.
+
+Formato de salida:
+
+css
+Copy code
+Nombre del equipo,Apodo del equipo,Año de fundación,Nombre de la mascota
+[Nombre del equipo 1],[Apodo del equipo 1],[Año de fundación del equipo 1],[Nombre de la mascota del equipo 1]
+[Nombre del equipo 2],[Apodo del equipo 2],[Año de fundación del equipo 2],[Nombre de la mascota del equipo 2]
+...
+Este prompt está listo para ser utilizado en cualquier sistema que permita la generación de tablas de datos, incluyendo formatos de salida CSV.
+
+
+
+
+
+

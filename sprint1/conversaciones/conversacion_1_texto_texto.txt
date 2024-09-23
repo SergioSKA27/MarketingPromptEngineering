@@ -1,0 +1,103 @@
+User: Actúa como un experto en análisis de audiencias deportivas especializado en identificar y comparar características de distintos grupos demográficos, económicos y sociales que siguen a equipos de béisbol en Estados Unidos. Realiza un análisis exhaustivo para definir el perfil de la audiencia tradicional que sigue al equipo de béisbol los Osos de Montana.
+Utilizando los siguientes datos proporcionados, debes realizar un análisis exhaustivo del perfil de la audiencia tradicional, enfocándote en sus características económicas, demográficas, etarias, y otros factores relevantes.
+Datos Proporcionados:
+1.	Características Económicas:
+o	Nivel de ingresos promedio de la audiencia: Ingresos medios a altos, con un promedio entre $50,000 y $80,000 anuales.
+o	Ocupaciones predominantes: Profesionales con estabilidad laboral, especialmente en sectores como manufactura, servicios y educación.
+o	Poder adquisitivo y patrones de gasto: Fuerte poder adquisitivo, con patrones de gasto consistentes en entradas de temporada y abonos anuales, además de compras de merchandising y consumo en el estadio.
+2.	Características Demográficas:
+o	Distribución por sexo (porcentaje de hombres y mujeres en la audiencia): 60% hombres, 40% mujeres.
+o	Ubicación geográfica de la audiencia: Mayormente residentes en áreas suburbanas y rurales cercanas al estadio, con una proporción significativa de audiencias locales.
+o	Estado civil predominante: 65% casados o en pareja, muchos de ellos asisten a juegos con sus familias.
+o	Nivel educativo de la audiencia: 45% con educación universitaria, 35% con estudios secundarios completos, resto con formación técnica o profesional.
+3.	Edad:
+o	Grupo etario predominante 1 (porcentaje de audiencia entre 35 y 50 años): 55%
+o	Grupo etario predominante 2 (porcentaje de audiencia entre 50 y 65 años): 30%
+o	Preferencias por grupo etario: Las audiencias tradicionales prefieren asistir físicamente a los estadios, con poca participación en redes sociales, aunque algunos utilizan Facebook y Twitter para seguir noticias del equipo.
+4.	Otros Factores Relevantes:
+o	Intereses adicionales de la audiencia: Afinidad con otros deportes tradicionales como fútbol americano y baloncesto.
+o	Lealtad a marcas deportivas: Altamente leales a marcas asociadas con el equipo, como Nike y Adidas, y a tiendas locales que venden productos oficiales del equipo.
+o	Participación en eventos comunitarios o deportivos locales: Activa participación en eventos comunitarios organizados por el equipo, como torneos locales de béisbol y eventos familiares. Suelen participar en actividades benéficas organizadas por la fundación del equipo.
+Formato de respuesta esperado:
+El análisis debe estar organizado en un formato claro y jerárquico, donde cada categoría tenga su propio título. Usa los datos proporcionados para hacer un análisis detallado de cada aspecto, incluyendo al menos tres datos clave en cada categoría.
+
+
+ChatGPT said:
+Análisis del Perfil de la Audiencia Tradicional de los Osos de Montana
+1. Características Económicas
+Ingresos Promedio: La audiencia tradicional tiene ingresos medios a altos, con un rango entre $50,000 y $80,000 anuales. Esto indica una sólida base económica que permite una fuerte capacidad de gasto.
+Ocupaciones Predominantes: Profesionales con estabilidad laboral, especialmente en sectores como manufactura, servicios y educación. Este perfil refleja una clase trabajadora estable y con ingresos regulares.
+Poder Adquisitivo y Patrones de Gasto: Los seguidores tradicionales tienen un fuerte poder adquisitivo. Invierten en entradas de temporada y abonos anuales, además de mostrar patrones de gasto en mercancía oficial del equipo y en alimentos y bebidas en el estadio. Esto subraya su dedicación financiera al equipo y a la experiencia en los juegos.
+2. Características Demográficas
+Distribución por Sexo: La audiencia está compuesta en un 60% por hombres y un 40% por mujeres. Aunque predominan los hombres, las mujeres representan un segmento importante y comprometido.
+Ubicación Geográfica: La mayoría de los seguidores residen en áreas suburbanas y rurales cercanas al estadio, lo que subraya un fuerte componente de comunidad local. Su proximidad al estadio facilita la asistencia frecuente a los partidos.
+Estado Civil Predominante: El 65% de los seguidores están casados o en pareja, y muchos asisten a los partidos con sus familias. Esto refleja una audiencia orientada a las actividades familiares y comunitarias, favoreciendo un ambiente de espectador intergeneracional.
+3. Edad
+Grupo Etario Predominante: El 55% de la audiencia tiene entre 35 y 50 años, seguido por un 30% que tiene entre 50 y 65 años. Esto indica que la audiencia tradicional está compuesta principalmente por adultos de mediana edad y mayores.
+Preferencias por Grupo Etario: Estos grupos etarios prefieren la experiencia presencial en el estadio, priorizando las interacciones cara a cara sobre las plataformas digitales. Aunque tienen poca participación en redes sociales, algunos utilizan Facebook y Twitter para seguir las noticias del equipo.
+Estilo de Vida: Los adultos en estos grupos de edad suelen tener una vida estable con rutinas establecidas, lo que se alinea con su compromiso a largo plazo con el equipo a través de abonos y compras regulares de productos oficiales.
+4. Intereses Adicionales
+Afinidad con Otros Deportes: Además del béisbol, los seguidores tradicionales también son aficionados al fútbol americano y al baloncesto, lo que sugiere una amplia afinidad por los deportes tradicionales de EE. UU.
+Lealtad a Marcas: La audiencia es altamente leal a marcas deportivas asociadas al equipo, como Nike y Adidas. También prefieren comprar en tiendas locales que venden productos oficiales del equipo, mostrando un fuerte compromiso con la economía local.
+Participación en la Comunidad: La audiencia tiene una participación activa en eventos comunitarios y deportivos locales organizados por el equipo. A menudo participan en actividades benéficas y torneos locales de béisbol, lo que refuerza el fuerte vínculo entre el equipo y la comunidad.
+Conclusión:
+La audiencia tradicional de los Osos de Montana es económicamente estable, leal, y comprometida tanto con el equipo como con la comunidad local. Prefieren el ambiente presencial en el estadio, tienen un fuerte poder adquisitivo y son consumidores frecuentes de productos relacionados con el equipo. Además, su inclinación por actividades familiares y su lealtad a marcas deportivas resaltan su conexión a largo plazo con los Osos de Montana y los valores comunitarios.
+
+User: Actúa como un experto en análisis de audiencias deportivas especializado en identificar y comparar características de distintos grupos demográficos, económicos y sociales que siguen a equipos de béisbol en Estados Unidos. Realiza un análisis exhaustivo para definir el perfil de la audiencia moderna que sigue al equipo de béisbol los Osos de Montana.
+Utilizando los siguientes datos proporcionados, debes realizar un análisis exhaustivo del perfil de la audiencia moderna, enfocándote en sus características económicas, demográficas, etarias, y otros factores relevantes.
+Datos Proporcionados:
+1.	Características Económicas:
+o	Nivel de ingresos promedio de la audiencia: Ingresos bajos a medios, con un promedio entre $30,000 y $55,000 anuales.
+o	Ocupaciones predominantes: Trabajadores jóvenes en industrias como tecnología, retail, marketing y estudiantes universitarios.
+o	Poder adquisitivo y patrones de gasto: Poder adquisitivo moderado; suelen gastar en experiencias digitales del equipo, como merchandising en línea, contenido multimedia exclusivo y boletos para eventos especiales en el estadio.
+2.	Características Demográficas:
+o	Distribución por sexo (porcentaje de hombres y mujeres en la audiencia): 50% hombres, 50% mujeres.
+o	Ubicación geográfica de la audiencia: Principalmente residentes urbanos y suburbanos, con alta concentración en ciudades cercanas a universidades y zonas metropolitanas.
+o	Estado civil predominante: 75% solteros o en pareja sin hijos. Menor asistencia en familia, más común la asistencia con amigos o compañeros de trabajo.
+o	Nivel educativo de la audiencia: 60% con estudios universitarios en curso o finalizados, 20% con educación secundaria completa.
+3.	Edad:
+o	Grupo etario predominante 1 (porcentaje de audiencia entre 18 y 25 años): 40%
+o	Grupo etario predominante 2 (porcentaje de audiencia entre 26 y 35 años): 35%
+o	Preferencias por grupo etario: Audiencias jóvenes con gran actividad en redes sociales (Instagram, TikTok y Twitter). Prefieren seguir al equipo a través de plataformas digitales y consumir contenido en vivo por streaming.
+4.	Otros Factores Relevantes:
+o	Intereses adicionales de la audiencia: Alta afinidad por deportes emergentes como el fútbol y los eSports. Además, consumen contenido digital sobre cultura pop, música y entretenimiento.
+o	Lealtad a marcas deportivas: Leales a marcas con fuerte presencia en redes sociales y colaboraciones con influencers (ej. Nike, Under Armour, marcas de ropa urbana).
+o	Participación en eventos comunitarios o deportivos locales: Prefieren eventos innovadores y experiencias interactivas como meet-and-greets con jugadores, activaciones de marca en redes sociales, y eventos especiales en el estadio con un enfoque en la cultura juvenil.
+Formato de respuesta esperado:
+El análisis debe estar organizado en un formato claro y jerárquico, donde cada categoría tenga su propio título. Usa los datos proporcionados para hacer un análisis detallado de cada aspecto, incluyendo al menos tres datos clave en cada categoría. 
+
+
+ChatGPT said:
+Análisis del Perfil de la Audiencia Moderna de los Osos de Montana
+1. Características Económicas
+Nivel de ingresos promedio: La audiencia moderna de los Osos de Montana se compone principalmente de personas con ingresos bajos a medios, con un rango promedio anual de $30,000 a $55,000. Este grupo tiene un poder adquisitivo limitado, lo que influye en sus decisiones de gasto.
+
+Ocupaciones predominantes: La mayoría son trabajadores jóvenes en sectores como tecnología, retail, marketing, así como estudiantes universitarios. Estas ocupaciones sugieren una fuerte presencia de individuos en el inicio de sus carreras profesionales o en transición laboral.
+
+Poder adquisitivo y patrones de gasto: Aunque no tienen un gran poder adquisitivo, los miembros de esta audiencia gastan en experiencias digitales relacionadas con el equipo. Prefieren comprar merchandising en línea, pagar por contenido multimedia exclusivo, y adquirir boletos para eventos especiales en el estadio, destacando un enfoque en gastos asociados a la experiencia del fan.
+
+2. Características Demográficas
+Distribución por sexo: La audiencia se caracteriza por una igualdad de género, con un 50% de hombres y 50% de mujeres. Esto sugiere una estrategia de marketing que pueda atraer tanto a hombres como a mujeres por igual, centrada en sus intereses comunes.
+
+Ubicación geográfica: La mayoría de los seguidores viven en áreas urbanas y suburbanas, particularmente cerca de universidades y zonas metropolitanas. Esto destaca una audiencia que está acostumbrada a un acceso constante a tecnología y entretenimiento digital, lo que puede influir en su forma de consumir contenido sobre el equipo.
+
+Estado civil predominante: El 75% de la audiencia está compuesta por personas solteras o en pareja sin hijos, lo que indica que prefieren asistir a los juegos en compañía de amigos o compañeros de trabajo, en lugar de asistir en familia. Esto afecta directamente las dinámicas de marketing, donde las experiencias grupales y sociales son más atractivas que las orientadas a la familia.
+
+Nivel educativo: Un 60% de la audiencia tiene estudios universitarios (en curso o finalizados), mientras que un 20% ha completado la educación secundaria. El alto nivel educativo sugiere que estos fans valoran contenido más sofisticado y están más abiertos a experiencias interactivas y educativas relacionadas con el deporte.
+
+3. Edad
+Grupo etario predominante 1 (18-25 años): Representando el 40% de la audiencia, este grupo es altamente activo en redes sociales como Instagram, TikTok y Twitter. Prefieren consumir contenido en tiempo real y seguir las actualizaciones del equipo a través de plataformas digitales, lo que refleja un enfoque en el entretenimiento instantáneo y multimedia.
+
+Grupo etario predominante 2 (26-35 años): El 35% de la audiencia se encuentra en este rango de edad. Aunque también son consumidores de contenido digital, este grupo tiende a tener un mayor interés en eventos especiales y experiencias exclusivas que involucren interacción directa con los jugadores o el equipo.
+
+Preferencias digitales: Ambas franjas etarias prefieren seguir al equipo a través de plataformas digitales, especialmente a través de streaming en vivo. Son fans que buscan la inmediatez y la capacidad de interactuar con el equipo de manera virtual, reflejando su naturaleza conectada y dependiente de la tecnología.
+
+4. Otros Factores Relevantes
+Intereses adicionales: La audiencia moderna tiene una alta afinidad por deportes emergentes como el fútbol y los eSports, lo que sugiere un cruce de intereses deportivos. Además, consumen contenido digital sobre cultura pop, música y entretenimiento, lo que abre oportunidades para el equipo de colaborar con marcas o eventos de estos sectores.
+
+Lealtad a marcas deportivas: Son extremadamente leales a marcas con fuerte presencia en redes sociales y colaboraciones con influencers. Prefieren marcas como Nike, Under Armour, y otras con un enfoque en ropa urbana, lo que refleja una tendencia hacia lo moderno y lo accesible en términos de moda y estilo de vida.
+
+Participación en eventos comunitarios: Esta audiencia prefiere eventos innovadores y experiencias interactivas. Les atraen actividades como meet-and-greets con los jugadores, activaciones de marca en redes sociales, y eventos especiales en el estadio que integran la cultura juvenil y tecnología, resaltando la importancia de la interactividad en sus experiencias.
+
+Conclusión
+La audiencia moderna de los Osos de Montana se caracteriza por ser joven, urbana, y digitalmente conectada. Tienen ingresos moderados y un fuerte interés en experiencias interactivas y contenido digital en lugar de opciones tradicionales. Con una división equitativa entre hombres y mujeres, su interés en deportes emergentes y entretenimiento digital representa una oportunidad para expandir la oferta del equipo más allá del béisbol tradicional, integrando marcas de ropa, influencers y eventos tecnológicos para maximizar su conexión con esta base de fans.

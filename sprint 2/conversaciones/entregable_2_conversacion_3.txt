@@ -1,0 +1,32 @@
+User: Actúa como un experto en branding deportivo especializado en la creación de eslóganes que fomenten la imagen familiar, el compañerismo y la fraternidad en el contexto del equipo de béisbol Osos de Montana.
+Genera un listado de 15 nuevos eslóganes que reflejen los valores de la familia, el compañerismo y la fraternidad, y que estén asociados con la mascota Monty.
+Consideraciones:
+•	Tono y Estilo: Amigable, inclusivo, optimista
+•	Temas a Resaltar:
+o	Unidad familiar
+o	Diversión en grupo
+o	Apoyo mutuo
+o	Experiencias compartidas
+o	Comunidad
+Objetivo Final:
+Asegúrate de que los eslóganes propuestos resalten los valores de la familia, el compañerismo y la fraternidad, y que sean fácilmente asociables con la mascota Monty.
+
+ChatGPT said:
+Aquí tienes un listado de 15 eslóganes para el equipo de béisbol Osos de Montana que reflejan los valores de la familia, el compañerismo y la fraternidad, y que están asociados con la mascota Monty:
+
+"¡Con Monty, la familia siempre gana!"
+"Unidos por la diversión, apoyados por Monty."
+"Donde cada juego es una celebración familiar."
+"Juntos con Monty, construimos recuerdos."
+"La amistad se fortalece con cada jugada."
+"Monty nos une, la diversión nunca termina."
+"Vive el béisbol, comparte la alegría."
+"El hogar de los Osos: donde todos son bienvenidos."
+"Monty: el corazón de nuestra comunidad."
+"Con Monty a nuestro lado, somos más que un equipo."
+"Jugamos como familia, apoyamos como amigos."
+"Cada juego, una oportunidad para compartir risas."
+"En el campo y fuera de él, somos una familia."
+"Con Monty, cada momento cuenta."
+"La fraternidad se celebra con cada lanzamiento."
+Estos eslóganes buscan resaltar la unión y el sentido de comunidad que se puede experimentar al asistir a los juegos, siempre con la presencia amigable de Monty.
