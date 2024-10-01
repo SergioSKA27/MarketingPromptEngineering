@@ -1,0 +1,90 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Diciembre
+- Acciones a Desarrollar: Anuncios en periódicos y TV sobre eventos navideños
+- Tipo de Mensajes: Celebra la Navidad con los Osos en nuestro evento familiar especial.
+- Medios de Comunicación: Periódicos, TV local
+- Audiencia Objetivo: Tradicional
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+Las audiencias mayores que consumen medios tradicionales tienen características claramente definidas en cuanto a sus preferencias y hábitos de consumo, que se vinculan a su contexto demográfico, económico y social.
+Demográficas
+Esta audiencia tiene una edad promedio de 42 años, con una concentración significativa de personas entre los 35 y 65 años. Predominan los hombres (60%) frente a las mujeres (40%), lo que sugiere que este grupo tradicional tiene un vínculo histórico más fuerte con los deportes, especialmente aquellos con una larga trayectoria como el béisbol y el fútbol americano. La mayoría reside en áreas suburbanas y rurales cercanas al estadio, lo que facilita su asistencia a eventos en persona.
+Económicas
+Con ingresos anuales entre $50,000 y $80,000, este grupo disfruta de estabilidad económica. Son profesionales que trabajan en sectores como manufactura, servicios y educación, sectores que tienden a ofrecer una base económica sólida y estable a lo largo del tiempo. Este poder adquisitivo les permite invertir en boletos de temporada y productos oficiales del equipo, demostrando una alta lealtad hacia su club deportivo y un interés en apoyar al equipo de manera sostenida.
+Hábitos de Consumo de Medios
+Prefieren medios de comunicación tradicionales como periódicos, radio y televisión para mantenerse al tanto de los deportes. Su consumo de medios es regular, centrándose en los horarios de noticias deportivas, reportes de juegos y programas de análisis, y suelen consumir actualizaciones a través de medios locales. La televisión sigue siendo su principal fuente de entretenimiento y de información deportiva en tiempo real, mientras que los periódicos y la radio complementan esta dieta mediática con análisis y comentarios. Este grupo también aprecia las coberturas de eventos locales que les conectan con su comunidad.
+Intereses y Comportamientos
+En términos de deportes, esta audiencia se interesa principalmente en el béisbol, el fútbol americano y el baloncesto. Además, suelen participar activamente en eventos comunitarios y en actividades deportivas locales, lo que refuerza su sentido de pertenencia tanto al equipo como a su entorno social. Aunque su uso de la tecnología es limitado, aquellos que la utilizan prefieren redes sociales como Facebook y Twitter, donde siguen cuentas oficiales del equipo para estar informados, aunque es más común que busquen interacciones cara a cara.
+Resumen de Comportamientos y Preferencias
+•	Medios preferidos: TV, radio, periódicos.
+•	Frecuencia: Diaria o semanal, con preferencia por actualizaciones deportivas locales.
+•	Interacciones: Prefieren encuentros en persona y la comunidad física, aunque algunos usan redes sociales de manera pasiva.
+•	Lealtad: Alta, reflejada en la compra de entradas de temporada y productos oficiales.
+Este análisis muestra que las audiencias mayores mantienen un fuerte lazo con sus equipos deportivos a través de canales tradicionales, participando activamente en su comunidad local y manteniendo un enfoque en medios que les permiten acceder a contenido relevante sin la necesidad de adaptarse a las nuevas tecnologías.
+
+Bot: ## Programa Mensual de Marketing para los Osos de Montana - Diciembre
+
+**Objetivo:** Fortalecer la presencia del club en la comunidad y generar mayor engagement con las audiencias, especialmente con la audiencia tradicional, durante la época navideña.
+
+**Mensajes:** "Celebra la Navidad con los Osos de Montana", "Monty te desea una feliz Navidad", "Comparte la alegría de los Osos con tus seres queridos", "La temporada de los Osos continúa con eventos especiales para toda la familia", "Monty te espera en el estadio para un diciembre lleno de diversión".
+
+**Audiencia Objetivo:** Tradicional
+
+**Acciones a Desarrollar:**
+
+* **Anuncios en Periódicos:**
+    * **Mensaje:** "Únete a los Osos de Montana para un evento navideño especial para toda la familia". Incluir imágenes de Monty con gorro navideño y detalles del evento: fecha, hora, lugar, actividades, precios. 
+    * **Diseño:** Gráficos atractivos con colores navideños y la imagen de Monty. Incluir un llamado a la acción para que la audiencia visite el sitio web del equipo para más información.
+    * **Publicación:**  En periódicos locales con mayor cobertura en áreas suburbanas y rurales donde reside la audiencia tradicional.
+* **Anuncios en TV Local:**
+    * **Mensaje:** Spots de 30 segundos con imágenes de los jugadores, Monty y la comunidad celebrando la Navidad. Enfoque en la familia y la diversión, con un llamado a la acción para asistir al evento navideño.
+    * **Diseño:**  Utilizar música navideña alegre y un ritmo dinámico. Mostrar escenas de eventos pasados del equipo para generar nostalgia y conectar con la audiencia.
+    * **Publicación:**  En canales locales con alta audiencia entre la población mayor, especialmente durante las horas de programación de noticias y deportes.
+* **Evento Navideño Familiar:**
+    * **Organizar un evento en el estadio con actividades para toda la familia:**
+        * **Música en vivo:** Agrupaciones de música navideña.
+        * **Comida y bebida:**  Comida tradicional navideña a precios accesibles.
+        * **Juegos y entretenimiento:**  Juegos de mesa, concursos,  fotos con Monty.
+        * **Mercadillo navideño:**  Venta de productos temáticos del equipo con descuentos.
+    * **Promocionar el evento:**
+        * **Anuncios en redes sociales:** Publicar fotos de Monty y el estadio con decoración navideña, información del evento, y links a las plataformas de compra de entradas.
+        * **Mensajes en la página web:**  Destacar el evento en la página principal con información detallada, incluyendo horarios, precios de las entradas,  opciones de estacionamiento y FAQ.
+        * **Comunicados de prensa:** Enviar información a los medios locales sobre el evento, incluyendo las actividades y la importancia del equipo para la comunidad.
+
+**Medios de Comunicación:**
+
+* **Tradicionales:** Periódicos locales, TV local, radio local.
+* **Digitales:** Página web del equipo, redes sociales como Facebook, Twitter, Instagram.
+
+**Consideraciones:**
+
+* **Evitar comparaciones con otros deportes:**  Concentrarse en el béisbol y la identidad de los Osos de Montana.
+* **Alinear los mensajes con la imagen de Monty:**  Utilizar la mascota como un elemento central en la comunicación, creando una conexión emocional con la audiencia.
+* **Promocionar la participación de la comunidad:**  Destacar la importancia del evento para la comunidad local y generar un sentido de pertenencia.
+* **Utilizar la nostalgia:**  Aprovechar la nostalgia por la época navideña para generar un ambiente familiar y acogedor.
+
+**Seguimiento:**
+
+* **Monitorear el alcance y engagement de las campañas.**
+* **Evaluar la asistencia al evento navideño.**
+* **Realizar encuestas a los asistentes para obtener feedback sobre el evento.**
+
+**Conclusión:**
+
+Este programa de marketing para diciembre busca conectar con la audiencia tradicional de los Osos de Montana durante la época navideña. A través de la combinación de medios tradicionales y digitales, la campaña busca crear un ambiente festivo y fortalecer la identidad del equipo en la comunidad.  Los mensajes positivos y la imagen de Monty como elemento central contribuyen a generar una conexión emocional con la audiencia.

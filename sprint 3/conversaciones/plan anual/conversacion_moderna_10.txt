@@ -1,0 +1,122 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Noviembre
+- Acciones a Desarrollar: Campaña de fin de año con promociones exclusivas en línea
+- Tipo de Mensajes: Promociones especiales para fans online: ¡aprovecha esta oferta única!
+- Medios de Comunicación: Instagram, Twitter
+- Audiencia Objetivo: Moderna
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+La audiencia joven, con una edad promedio de 26 años, está profundamente integrada en el ecosistema digital, lo que define sus hábitos de consumo y preferencias. Aquí te ofrezco un análisis detallado:
+1. Características Demográficas
+•	Edad: Predominan los jóvenes de entre 18 y 35 años, con un fuerte núcleo en el rango de 18 a 25 años.
+•	Género: Existe una paridad de género notable, con un 50% de hombres y 50% de mujeres, lo que subraya la importancia de generar contenido inclusivo.
+•	Ubicación: Tienden a vivir en áreas urbanas y suburbanas, cercanas a universidades y zonas metropolitanas, lo que facilita su acceso a eventos y actividades de carácter local o regional.
+•	Nivel educativo: La mayoría está en proceso o ha completado estudios universitarios, reflejando una audiencia educada con acceso a múltiples fuentes de información.
+2. Características Económicas
+•	Ingresos: Los ingresos de este grupo varían entre $30,000 y $55,000 anuales, lo que limita su capacidad de gasto en bienes de lujo, pero no en experiencias digitales y eventos relacionados con el entretenimiento y los deportes.
+•	Ocupaciones: Jóvenes trabajadores en sectores como tecnología, retail, marketing, además de estudiantes universitarios, lo que influye en sus horarios de consumo de medios, frecuentemente orientados a momentos de pausa o fuera del horario laboral.
+•	Gasto: Prefieren gastar en experiencias, tanto digitales como en vivo. Esto incluye merchandising en línea, eventos en el estadio o actividades exclusivas.
+3. Hábitos de Consumo de Medios Digitales
+•	Plataformas preferidas: Instagram, TikTok, YouTube y Twitter son las plataformas de elección. TikTok es fundamental para la viralización de contenido breve y creativo, mientras que Instagram destaca por su enfoque en imágenes y videos atractivos.
+•	Frecuencia de consumo: Son consumidores de contenido en tiempo real, siempre conectados y buscando estar al tanto de las últimas tendencias, ya sea a través de transmisiones en vivo, stories o publicaciones de alta frecuencia.
+•	Tipo de contenido: Buscan contenido visual y multimedia, con una fuerte inclinación hacia clips cortos y llamativos, contenido detrás de cámaras, videos de entretenimiento relacionados con el equipo, entrevistas con jugadores y referencias a la cultura pop.
+4. Intereses y Comportamientos
+•	Deportes: Además de seguir béisbol, su interés se extiende a deportes emergentes como el fútbol y eSports, que son vistos como más accesibles y relevantes culturalmente para esta generación.
+•	Participación en eventos: Prefieren eventos interactivos, como meet-and-greets con jugadores, experiencias de realidad aumentada o virtual y activaciones innovadoras en redes sociales, donde pueden interactuar directamente con sus ídolos o con la marca del equipo.
+•	Interacción en redes sociales: Altamente dependientes de la tecnología, se involucran activamente en la creación y compartición de contenido. Son propensos a usar hashtags, compartir memes y participar en retos virales, lo que convierte a las redes sociales en una plataforma fundamental para su conexión con los equipos deportivos.
+5. Conclusión
+Esta audiencia moderna prioriza las experiencias sobre la posesión de bienes, buscando una conexión auténtica con los equipos a través de medios digitales. Su interacción en tiempo real, la inclinación hacia el contenido visual y su deseo de participar en experiencias innovadoras son clave para captar su atención y mantener su lealtad hacia el equipo. Las estrategias de marketing deben estar centradas en la creación de contenido atractivo, dinámico y participativo, aprovechando las plataformas sociales y el deseo de esta audiencia de formar parte de comunidades digitales vibrantes y activas.
+
+Bot: ## Programa Mensual de Marketing para los Osos de Montana - Noviembre
+
+**Objetivo:** Fortalecer la presencia del equipo en la comunidad y generar un mayor engagement con las audiencias, particularmente con la audiencia joven. 
+
+**Mes:** Noviembre
+
+**Tema Central:**  "Monty te trae la mejor temporada de fin de año" (Manteniendo el enfoque en Monty y evitando comparaciones)
+
+**Acciones a Desarrollar:**
+
+1. **Campaña de Fin de Año con Promociones Exclusivas Online:** 
+    - **Descripción:** Lanzamiento de una campaña de fin de año en redes sociales con promociones exclusivas para fans. 
+    - **Fechas:** 15 de Noviembre al 30 de Noviembre
+    - **Promociones:**
+        - **Descuentos especiales:** 20% de descuento en la compra de mercancía oficial del equipo durante la temporada navideña.
+        - **Sorteos:**  Sorteo de entradas para el próximo juego de temporada, firmado por Monty. 
+        - **"Monty's Holiday Giveaway":**  Regalo de un kit especial con artículos del equipo y la imagen de Monty para los primeros 100 fans que realicen una compra en línea.
+    - **Mensajes:**
+        - "¡Aprovecha esta oferta única! ¡Regala un pedazo de la magia de los Osos de Montana esta Navidad!"
+        - "¡Monty te trae los mejores regalos para la temporada de fiestas!"
+        - "¡Únete a la familia de los Osos para celebrar este fin de año!"
+    - **Medios de Comunicación:**
+        - **Instagram:** Publicaciones diarias con imágenes de la mercancía, videos de Monty promocionando la oferta y stories con información sobre los sorteos.  
+        - **Twitter:** Anuncios con hashtags relevantes (#OsosMontana #Monty #NavidadOsos #RegalosOsos #TemporadaDeFiestas).
+        - **Facebook:**  Anuncios de la campaña con contenido multimedia, promociones especiales para seguidores y concursos para ganar mercancía.
+2. **Concurso de Fotos "Monty's Christmas Spirit"**:
+    - **Descripción:** Invitar a los fans a compartir fotos en redes sociales con Monty o con la temática navideña. 
+    - **Fechas:** 20 de Noviembre al 10 de Diciembre
+    - **Premios:**  Los tres mejores fotos serán elegidos por un jurado y recibirán un premio especial, como merchandising personalizado del equipo y la oportunidad de conocer a Monty.
+    - **Mensajes:** 
+        - "¡Comparte tu espíritu navideño con Monty!"
+        - "¡Deja que Monty sea parte de tus tradiciones navideñas!"
+        - "¡Gana increíbles premios con tu foto más original!"
+    - **Medios de Comunicación:**
+        - **Instagram:** Concurso oficial con hashtag #MontyChristmasSpirit, publicación de las mejores fotos recibidas y votación por parte de los fans.
+        - **Facebook:**  Anuncios del concurso con información detallada de las bases y premios.
+3. **Contenido Especial de "Monty's Holiday Corner":**
+    - **Descripción:**  Lanzamiento de un contenido especial en redes sociales con recetas, consejos y actividades navideñas relacionadas con los Osos de Montana.
+    - **Fechas:** 1 de Noviembre al 31 de Noviembre
+    - **Mensajes:**
+        - "¡Monty te trae las mejores ideas para celebrar la navidad con los Osos!"
+        - "¡Disfruta de la temporada navideña con Monty y los Osos de Montana!"
+        - "¡Encuentra inspiración en el blog de Monty para celebrar la Navidad con tu familia y amigos!"
+    - **Medios de Comunicación:**
+        - **Instagram:** Publicaciones diarias con contenido visual atractivo y videos cortos de Monty realizando las actividades. 
+        - **Facebook:**  Publicaciones de artículos de blog con la temática navideña, incluyendo información sobre los jugadores y el equipo.
+        - **TikTok:**  Creación de videos cortos con recetas fáciles y divertidas con la imagen de Monty, juegos navideños y bailes inspirados en la mascota del equipo.
+
+**Audiencia Objetivo:** 
+
+* **Moderna:** Jovenes entre 18 y 35 años, con un fuerte núcleo en el rango de 18 a 25 años. 
+* **Fanáticos del equipo:**  Aficionados apasionados por los Osos de Montana.
+* **Familias:**  Personas que buscan actividades para realizar en familia durante las fiestas.
+
+**Mensajes clave:**
+
+* **Mantener el enfoque en la mascota, Monty:**  Personificar el mensaje a través de la mascota,  creando una imagen de diversión y alegría.
+* **Promocionar las acciones del equipo:** Incentivar la participación a través de concursos, sorteos y actividades. 
+* **Celebrar la temporada navideña:**  Aprovechar el espíritu festivo para conectar con la audiencia.
+
+**Medios de Comunicación:**
+
+* **Instagram:**  Principal plataforma para el contenido visual y la interacción con la audiencia moderna. 
+* **Twitter:** Ideal para anuncios breves y hashtags relevantes.
+* **Facebook:**  Para anuncios y publicaciones con contenido multimedia, interacciones con fans y concursos.
+* **TikTok:**  Para videos cortos, entretenidos y virales.
+
+**Consideraciones:**
+
+* **Contenido Visual:**  Utilizar imágenes atractivas, videos con música de fondo y transmisiones en vivo. 
+* **Mensajes Positivos:** Enfatizar el espíritu deportivo, la unión del equipo y la pasión por el béisbol.
+* **Comunicación efectiva:**  Utilizar un lenguaje claro, conciso y acorde a la audiencia.
+* **Monitoreo constante:**  Analizar el rendimiento de la campaña en las redes sociales y realizar ajustes en el contenido y los mensajes según sea necesario. 
+
+**Conclusión:** 
+
+Este programa mensual de marketing busca crear un ambiente festivo y conectar con la audiencia moderna de los Osos de Montana a través de promociones online, concursos y contenido especial relacionado con la Navidad. El objetivo es fortalecer la presencia del equipo en la comunidad, generar un mayor engagement con los fans y celebrar la temporada navideña con Monty como protagonista. 

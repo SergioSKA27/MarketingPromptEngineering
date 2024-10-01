@@ -1,0 +1,137 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales
+- Tipo de Mensajes: Únete a la familia de los Osos, donde la diversión nunca se detiene.
+- Medios de Comunicación: Instagram, TikTok
+- Audiencia Objetivo: Moderna
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+La audiencia joven, con una edad promedio de 26 años, está profundamente integrada en el ecosistema digital, lo que define sus hábitos de consumo y preferencias. Aquí te ofrezco un análisis detallado:
+1. Características Demográficas
+•	Edad: Predominan los jóvenes de entre 18 y 35 años, con un fuerte núcleo en el rango de 18 a 25 años.
+•	Género: Existe una paridad de género notable, con un 50% de hombres y 50% de mujeres, lo que subraya la importancia de generar contenido inclusivo.
+•	Ubicación: Tienden a vivir en áreas urbanas y suburbanas, cercanas a universidades y zonas metropolitanas, lo que facilita su acceso a eventos y actividades de carácter local o regional.
+•	Nivel educativo: La mayoría está en proceso o ha completado estudios universitarios, reflejando una audiencia educada con acceso a múltiples fuentes de información.
+2. Características Económicas
+•	Ingresos: Los ingresos de este grupo varían entre $30,000 y $55,000 anuales, lo que limita su capacidad de gasto en bienes de lujo, pero no en experiencias digitales y eventos relacionados con el entretenimiento y los deportes.
+•	Ocupaciones: Jóvenes trabajadores en sectores como tecnología, retail, marketing, además de estudiantes universitarios, lo que influye en sus horarios de consumo de medios, frecuentemente orientados a momentos de pausa o fuera del horario laboral.
+•	Gasto: Prefieren gastar en experiencias, tanto digitales como en vivo. Esto incluye merchandising en línea, eventos en el estadio o actividades exclusivas.
+3. Hábitos de Consumo de Medios Digitales
+•	Plataformas preferidas: Instagram, TikTok, YouTube y Twitter son las plataformas de elección. TikTok es fundamental para la viralización de contenido breve y creativo, mientras que Instagram destaca por su enfoque en imágenes y videos atractivos.
+•	Frecuencia de consumo: Son consumidores de contenido en tiempo real, siempre conectados y buscando estar al tanto de las últimas tendencias, ya sea a través de transmisiones en vivo, stories o publicaciones de alta frecuencia.
+•	Tipo de contenido: Buscan contenido visual y multimedia, con una fuerte inclinación hacia clips cortos y llamativos, contenido detrás de cámaras, videos de entretenimiento relacionados con el equipo, entrevistas con jugadores y referencias a la cultura pop.
+4. Intereses y Comportamientos
+•	Deportes: Además de seguir béisbol, su interés se extiende a deportes emergentes como el fútbol y eSports, que son vistos como más accesibles y relevantes culturalmente para esta generación.
+•	Participación en eventos: Prefieren eventos interactivos, como meet-and-greets con jugadores, experiencias de realidad aumentada o virtual y activaciones innovadoras en redes sociales, donde pueden interactuar directamente con sus ídolos o con la marca del equipo.
+•	Interacción en redes sociales: Altamente dependientes de la tecnología, se involucran activamente en la creación y compartición de contenido. Son propensos a usar hashtags, compartir memes y participar en retos virales, lo que convierte a las redes sociales en una plataforma fundamental para su conexión con los equipos deportivos.
+5. Conclusión
+Esta audiencia moderna prioriza las experiencias sobre la posesión de bienes, buscando una conexión auténtica con los equipos a través de medios digitales. Su interacción en tiempo real, la inclinación hacia el contenido visual y su deseo de participar en experiencias innovadoras son clave para captar su atención y mantener su lealtad hacia el equipo. Las estrategias de marketing deben estar centradas en la creación de contenido atractivo, dinámico y participativo, aprovechando las plataformas sociales y el deseo de esta audiencia de formar parte de comunidades digitales vibrantes y activas.
+
+Bot: ## Programa Mensual para los Osos de Montana - Enero
+
+**Objetivo:** Fortalecer la presencia del club en la comunidad y generar un mayor engagement con las audiencias, especialmente con la audiencia joven (18-35 años).
+
+**Mensajes Clave:**
+* **"Únete a la familia de los Osos, donde la diversión nunca se detiene."**
+* **"Monty te espera con un montón de sorpresas y emociones."**
+* **"Sé parte del rugido de los Osos, ¡somos una comunidad unida!"**
+* **"Los Osos: ¡Un equipo para disfrutar con amigos y familia!"**
+
+**Estrategias:**
+
+**1. Lanzamiento de Campaña en Redes Sociales (Instagram y TikTok):**
+
+* **Acciones:**
+    * **Creación de Videos Cortos (TikTok):** Contenido creativo y divertido con Monty como protagonista, mostrando highlights del equipo, detrás de cámaras, concursos, etc.
+    * **Lanzamiento de Reto Viral (Instagram):**  Un reto divertido que involucre a la mascota Monty. Se puede usar un hashtag específico para que la audiencia participe y comparta su contenido. 
+    * **Publicaciones Atractivas (Instagram):** Imágenes de alta calidad con mensajes positivos que reflejen la energía del equipo y la mascota, incluyendo contenido relacionado con la comunidad.
+    * **Instagram Stories:** Mostrar contenido dinámico y en tiempo real como eventos, entrenamientos, momentos detrás de cámaras, etc., con el fin de generar interés y una sensación de intimidad.
+    * **Anuncios Patrocinados (TikTok e Instagram):** Llegar a una audiencia más amplia con contenido específico y atractivo para este grupo demográfico.
+* **Mensajes:** 
+    * Destacar la energía y el entusiasmo de la temporada.
+    * Enfatizar el papel de Monty como mascota amigable y divertida.
+    * Incluir llamadas a la acción para que la audiencia se una a la familia de los Osos.
+    * Promocionar eventos y actividades especiales del equipo.
+* **Audiencia:** Audiencia joven (18-35 años) que consume contenido digital en plataformas como TikTok e Instagram.
+
+**2. Colaboración con Influencers Locales (Instagram y TikTok):**
+
+* **Acciones:** 
+    * **Identificar influencers locales:**  Seleccionar influencers populares entre la audiencia joven que se alineen con los valores del equipo y la mascota Monty.
+    * **Creación de contenido patrocinado:** Colaborar con los influencers para crear contenido original (videos cortos, reels, fotos) con un enfoque divertido e interactivo. 
+* **Mensajes:**
+    *  Mensajes auténticos que reflejen la personalidad del influencer y la energía del equipo.
+    * Promoción de eventos y actividades del equipo.
+    * Llamadas a la acción para que la audiencia se una a la familia de los Osos.
+* **Audiencia:**  Jóvenes que siguen a los influencers seleccionados.
+
+**3. Promociones y Descuentos (Redes Sociales):**
+
+* **Acciones:**
+    * **Ofrecer descuentos en entradas para el juego:** Promociones especiales para la audiencia joven (estudiantes, etc.) con el objetivo de fomentar la asistencia al estadio.
+    * **Concursos en redes sociales:** Sortear entradas para los juegos, merchandise y otros premios para incentivar la participación de la audiencia.
+* **Mensajes:** 
+    * Comunicar las promociones y descuentos de manera clara y atractiva.
+    * Incentivar la participación de la audiencia en los concursos.
+* **Audiencia:** Audiencia joven interesada en acceder a eventos deportivos a un precio accesible.
+
+**4. Colaboración con Empresas Locales (Instagram):**
+
+* **Acciones:**
+    * **Co-branding:**  Asociarse con empresas locales que sean relevantes para la audiencia joven.
+    * **Ofrecer paquetes especiales:**  Combinar entradas para los juegos con descuentos en productos o servicios de las empresas colaboradoras.
+* **Mensajes:**
+    * Promocionar las colaboraciones con empresas locales.
+    * Enfatizar los beneficios para los fans de los Osos.
+* **Audiencia:**  Jóvenes que utilizan los productos o servicios de las empresas colaboradoras.
+
+**5.  Eventos Exclusivos para Fans (Instagram):**
+
+* **Acciones:**
+    * **Organizar eventos especiales para fans:**  Meet & Greets con jugadores, eventos de firma de autógrafos, charlas con ex-jugadores, etc.
+* **Mensajes:**
+    * Promocionar eventos exclusivos y ofrecer a los fans la oportunidad de interactuar con el equipo.
+* **Audiencia:** Fans comprometidos con el equipo que buscan una experiencia única.
+
+
+**Medios de Comunicación:**
+
+* **Redes Sociales:** Instagram, TikTok, Facebook.
+* **Sitio web del equipo:** Información sobre eventos, jugadores, calendario de juegos.
+* **Boletines por email:**  Comunicaciones personalizadas con información relevante para la audiencia.
+* **Colaboraciones con medios locales:**  Anuncios en radio y televisión para llegar a una audiencia más amplia.
+
+
+**Mensajes clave:**
+
+* **Positivos:**  Enfatizar la diversión, el entusiasmo, la unidad y la comunidad que representan los Osos de Montana.
+* **Orientados a la acción:**  Involucrar a la audiencia, incentivar la participación y fomentar la asistencia a eventos.
+* **Consistentes:** Mantener un tono de voz y una imagen coherentes en todos los medios de comunicación.
+
+
+**Evaluación del Éxito:**
+
+* **Crecimiento en las redes sociales:**  Cantidad de seguidores, interacciones, alcance.
+* **Aumento en la asistencia a los juegos:**  Comparar con la temporada anterior.
+* **Participación en eventos y promociones:**  Número de participantes en concursos, eventos exclusivos y ofertas especiales.
+* **Engaging con la audiencia:**  Comentarios positivos, retroalimentación de los fans.
+
+**Conclusión:**
+
+Este programa de marketing mensual para los Osos de Montana está diseñado para fortalecer la presencia del club en la comunidad y generar un mayor engagement con las audiencias, especialmente con la audiencia joven. Mediante la creación de contenido atractivo, la colaboración con influencers locales y empresas relevantes, y la organización de eventos especiales, los Osos de Montana podrán conectar con sus fans y fortalecer su identidad como equipo familiar y divertido. 

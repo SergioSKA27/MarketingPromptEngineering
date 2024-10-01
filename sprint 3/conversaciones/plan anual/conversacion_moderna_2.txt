@@ -1,0 +1,124 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Marzo
+- Acciones a Desarrollar: Sorteos de boletos en redes sociales y plataformas digitales
+- Tipo de Mensajes: Gana entradas exclusivas para ver a los Osos en vivo. ¡No te lo pierdas!
+- Medios de Comunicación: Twitter, Instagram
+- Audiencia Objetivo: Moderna
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+La audiencia joven, con una edad promedio de 26 años, está profundamente integrada en el ecosistema digital, lo que define sus hábitos de consumo y preferencias. Aquí te ofrezco un análisis detallado:
+1. Características Demográficas
+•	Edad: Predominan los jóvenes de entre 18 y 35 años, con un fuerte núcleo en el rango de 18 a 25 años.
+•	Género: Existe una paridad de género notable, con un 50% de hombres y 50% de mujeres, lo que subraya la importancia de generar contenido inclusivo.
+•	Ubicación: Tienden a vivir en áreas urbanas y suburbanas, cercanas a universidades y zonas metropolitanas, lo que facilita su acceso a eventos y actividades de carácter local o regional.
+•	Nivel educativo: La mayoría está en proceso o ha completado estudios universitarios, reflejando una audiencia educada con acceso a múltiples fuentes de información.
+2. Características Económicas
+•	Ingresos: Los ingresos de este grupo varían entre $30,000 y $55,000 anuales, lo que limita su capacidad de gasto en bienes de lujo, pero no en experiencias digitales y eventos relacionados con el entretenimiento y los deportes.
+•	Ocupaciones: Jóvenes trabajadores en sectores como tecnología, retail, marketing, además de estudiantes universitarios, lo que influye en sus horarios de consumo de medios, frecuentemente orientados a momentos de pausa o fuera del horario laboral.
+•	Gasto: Prefieren gastar en experiencias, tanto digitales como en vivo. Esto incluye merchandising en línea, eventos en el estadio o actividades exclusivas.
+3. Hábitos de Consumo de Medios Digitales
+•	Plataformas preferidas: Instagram, TikTok, YouTube y Twitter son las plataformas de elección. TikTok es fundamental para la viralización de contenido breve y creativo, mientras que Instagram destaca por su enfoque en imágenes y videos atractivos.
+•	Frecuencia de consumo: Son consumidores de contenido en tiempo real, siempre conectados y buscando estar al tanto de las últimas tendencias, ya sea a través de transmisiones en vivo, stories o publicaciones de alta frecuencia.
+•	Tipo de contenido: Buscan contenido visual y multimedia, con una fuerte inclinación hacia clips cortos y llamativos, contenido detrás de cámaras, videos de entretenimiento relacionados con el equipo, entrevistas con jugadores y referencias a la cultura pop.
+4. Intereses y Comportamientos
+•	Deportes: Además de seguir béisbol, su interés se extiende a deportes emergentes como el fútbol y eSports, que son vistos como más accesibles y relevantes culturalmente para esta generación.
+•	Participación en eventos: Prefieren eventos interactivos, como meet-and-greets con jugadores, experiencias de realidad aumentada o virtual y activaciones innovadoras en redes sociales, donde pueden interactuar directamente con sus ídolos o con la marca del equipo.
+•	Interacción en redes sociales: Altamente dependientes de la tecnología, se involucran activamente en la creación y compartición de contenido. Son propensos a usar hashtags, compartir memes y participar en retos virales, lo que convierte a las redes sociales en una plataforma fundamental para su conexión con los equipos deportivos.
+5. Conclusión
+Esta audiencia moderna prioriza las experiencias sobre la posesión de bienes, buscando una conexión auténtica con los equipos a través de medios digitales. Su interacción en tiempo real, la inclinación hacia el contenido visual y su deseo de participar en experiencias innovadoras son clave para captar su atención y mantener su lealtad hacia el equipo. Las estrategias de marketing deben estar centradas en la creación de contenido atractivo, dinámico y participativo, aprovechando las plataformas sociales y el deseo de esta audiencia de formar parte de comunidades digitales vibrantes y activas.
+
+Bot: ## Programa Mensual de Marketing Deportivo para los Osos de Montana - Marzo
+
+**Objetivo:** Fortalecer la presencia del club en la comunidad y generar un mayor engagement con las audiencias, especialmente la audiencia joven, a través de estrategias digitales que se alineen con la imagen del equipo y su mascota, Monty.
+
+**Mes:** Marzo
+
+**Audiencia Objetivo:** Audiencia Moderna (Jóvenes de 18 a 35 años, con fuerte núcleo en el rango de 18 a 25 años)
+
+**Estrategia:** 
+
+**Semana 1:**
+
+* **Acciones:** 
+    * Lanzamiento de la campaña "Monty's March Madness" en redes sociales (Instagram, TikTok, Twitter).
+    * Sorteo de entradas para el primer juego de la temporada en redes sociales.
+* **Mensajes:** 
+    * "Monty está listo para rugir en marzo, ¡y tú también puedes! Gana entradas para el primer juego de la temporada con Monty's March Madness."
+    * "Monty te invita a vivir la emoción del béisbol en vivo. ¡Participa en nuestro sorteo y no te pierdas el primer juego de la temporada!"
+* **Medios de Comunicación:** 
+    * Instagram: Posts con imágenes y videos de Monty con la campaña, stories con información del sorteo.
+    * TikTok: Videos cortos y creativos con Monty, música popular y hashtags relevantes.
+    * Twitter: Tweets con imágenes y gifs de Monty, información sobre el sorteo y preguntas para generar interacción.
+
+**Semana 2:**
+
+* **Acciones:** 
+    * Creación de contenido en TikTok y Instagram Reels con "Monty's Béisbol Tips".
+    * Publicación de un concurso de fotos con Monty en Instagram.
+* **Mensajes:** 
+    * "Aprende los secretos del béisbol con Monty's Béisbol Tips. ¡No te pierdas nuestros videos en TikTok e Instagram Reels!"
+    * "Muestra tu pasión por los Osos y comparte una foto con Monty en Instagram. ¡El ganador se lleva un premio especial!"
+* **Medios de Comunicación:** 
+    * TikTok: Videos cortos y divertidos sobre tips de béisbol con Monty.
+    * Instagram: Posts con la imagen de la semana del concurso, stories con las mejores fotos y el anuncio del ganador.
+
+**Semana 3:**
+
+* **Acciones:**
+    * Lanzamiento de la campaña "Monty's Fan Fest" en redes sociales.
+    * Transmisión en vivo en Instagram con Monty y un jugador estrella del equipo, respondiendo preguntas de los fans.
+* **Mensajes:** 
+    * "Únete a Monty's Fan Fest y disfruta de una tarde llena de diversión, música y sorpresas. ¡No te lo pierdas!"
+    * "Prepara tus preguntas para Monty y un jugador estrella del equipo en nuestra transmisión en vivo en Instagram. ¡Conecta con la emoción de los Osos!"
+* **Medios de Comunicación:** 
+    * Instagram: Posts con imágenes de Monty's Fan Fest, stories con información del evento y la transmisión en vivo.
+    * Twitter: Tweets con la información del evento, hashtags relevantes y preguntas para la transmisión en vivo.
+
+**Semana 4:**
+
+* **Acciones:** 
+    * Promoción de la tienda oficial del equipo con descuentos especiales para la audiencia moderna.
+    * Publicación de contenido en redes sociales con historias de fans y jugadores usando la mercancía del equipo.
+* **Mensajes:** 
+    * "Lleva tu pasión por los Osos a otro nivel con mercancía oficial del equipo. ¡Visita nuestra tienda online y disfruta de descuentos especiales!"
+    * "Comparte tu amor por los Osos con el mundo. Publica una foto usando tu mercancía favorita en Instagram y etiqueta a @OsosdeMontana."
+* **Medios de Comunicación:** 
+    * Instagram: Posts con imágenes de mercancía y descuentos especiales, stories con fans usando la mercancía.
+    * Twitter: Tweets con links a la tienda online, hashtags relevantes y retuits de fans con su mercancía.
+
+**Mensajes Generales:**
+
+* Todos los mensajes deben ser positivos y motivadores, sin hacer referencia a comparaciones con otros deportes o la falta de campeonatos recientes.
+* Se debe incluir la imagen de Monty en todos los anuncios, como elemento central de la estrategia de marketing.
+* Se deben utilizar hashtags relevantes para aumentar la visibilidad del equipo en las redes sociales.
+
+**Puntos Clave:**
+
+* La audiencia joven es altamente activa en las redes sociales, por lo que es esencial enfocar la estrategia de marketing en estos canales.
+* Es importante crear contenido atractivo, dinámico y participativo, utilizando diferentes formatos como videos, gifs, imágenes, historias, transmisiones en vivo y concursos.
+* Se debe conectar con los intereses de la audiencia moderna, incluyendo referencias a la cultura pop y temas de actualidad.
+
+**Medios de Comunicación:**
+
+* Instagram: Es la plataforma principal para conectar con la audiencia moderna, por su enfoque en imágenes y videos atractivos.
+* TikTok: Se utiliza para crear contenido viral y corto, aprovechando las tendencias de la plataforma.
+* Twitter: Se utiliza para compartir información, interactuar con los fans y generar debates sobre el equipo.
+
+**Este programa mensual busca fortalecer la presencia de los Osos de Montana en la comunidad y conectar con la audiencia joven a través de estrategias digitales que se alinean con la imagen del equipo y su mascota, Monty. 
+**

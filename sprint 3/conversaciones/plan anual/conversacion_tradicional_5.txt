@@ -1,0 +1,103 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Junio
+- Acciones a Desarrollar: Campaña en TV sobre eventos y actividades locales
+- Tipo de Mensajes: Sigue a los Osos durante todo el verano con actividades para todos.
+- Medios de Comunicación: TV local, Periódicos
+- Audiencia Objetivo: Tradicional
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+Las audiencias mayores que consumen medios tradicionales tienen características claramente definidas en cuanto a sus preferencias y hábitos de consumo, que se vinculan a su contexto demográfico, económico y social.
+Demográficas
+Esta audiencia tiene una edad promedio de 42 años, con una concentración significativa de personas entre los 35 y 65 años. Predominan los hombres (60%) frente a las mujeres (40%), lo que sugiere que este grupo tradicional tiene un vínculo histórico más fuerte con los deportes, especialmente aquellos con una larga trayectoria como el béisbol y el fútbol americano. La mayoría reside en áreas suburbanas y rurales cercanas al estadio, lo que facilita su asistencia a eventos en persona.
+Económicas
+Con ingresos anuales entre $50,000 y $80,000, este grupo disfruta de estabilidad económica. Son profesionales que trabajan en sectores como manufactura, servicios y educación, sectores que tienden a ofrecer una base económica sólida y estable a lo largo del tiempo. Este poder adquisitivo les permite invertir en boletos de temporada y productos oficiales del equipo, demostrando una alta lealtad hacia su club deportivo y un interés en apoyar al equipo de manera sostenida.
+Hábitos de Consumo de Medios
+Prefieren medios de comunicación tradicionales como periódicos, radio y televisión para mantenerse al tanto de los deportes. Su consumo de medios es regular, centrándose en los horarios de noticias deportivas, reportes de juegos y programas de análisis, y suelen consumir actualizaciones a través de medios locales. La televisión sigue siendo su principal fuente de entretenimiento y de información deportiva en tiempo real, mientras que los periódicos y la radio complementan esta dieta mediática con análisis y comentarios. Este grupo también aprecia las coberturas de eventos locales que les conectan con su comunidad.
+Intereses y Comportamientos
+En términos de deportes, esta audiencia se interesa principalmente en el béisbol, el fútbol americano y el baloncesto. Además, suelen participar activamente en eventos comunitarios y en actividades deportivas locales, lo que refuerza su sentido de pertenencia tanto al equipo como a su entorno social. Aunque su uso de la tecnología es limitado, aquellos que la utilizan prefieren redes sociales como Facebook y Twitter, donde siguen cuentas oficiales del equipo para estar informados, aunque es más común que busquen interacciones cara a cara.
+Resumen de Comportamientos y Preferencias
+•	Medios preferidos: TV, radio, periódicos.
+•	Frecuencia: Diaria o semanal, con preferencia por actualizaciones deportivas locales.
+•	Interacciones: Prefieren encuentros en persona y la comunidad física, aunque algunos usan redes sociales de manera pasiva.
+•	Lealtad: Alta, reflejada en la compra de entradas de temporada y productos oficiales.
+Este análisis muestra que las audiencias mayores mantienen un fuerte lazo con sus equipos deportivos a través de canales tradicionales, participando activamente en su comunidad local y manteniendo un enfoque en medios que les permiten acceder a contenido relevante sin la necesidad de adaptarse a las nuevas tecnologías.
+
+Bot: ## Programa Mensual de Marketing para los Osos de Montana - Junio
+
+**Objetivo:** Fortalecer la presencia del club en la comunidad y generar un mayor engagement con las audiencias tradicionales, a través de actividades y mensajes positivos que resalten la mascota Monty.
+
+**Audiencia Objetivo:** Tradicional (mayores de 42 años, principalmente hombres, residentes en áreas suburbanas y rurales, consumidores de medios tradicionales).
+
+**Mes:** Junio
+
+**Acciones a Desarrollar:**
+
+* **Campaña en TV local:**
+    * Spot publicitario de 30 segundos transmitido durante los programas deportivos locales.
+    * Se enfocará en destacar los eventos y actividades del equipo durante el verano, como:
+        * **"Noches de Béisbol Familiar"**:  Promocionar juegos nocturnos con actividades para niños, como juegos de mesa y concursos con Monty.
+        * **"Monty en el Parque"**:  Promocionar eventos comunitarios en parques locales donde Monty estará presente, interactuando con la comunidad y organizando juegos.
+        * **"Día de Monty en el Estadio"**:  Promocionar un día especial en el estadio dedicado a la mascota Monty, con concursos, regalos y oportunidades de tomarse fotos con él.
+    * Se utilizará un lenguaje claro y directo, con imágenes atractivas y música animada.
+* **Campaña en Periódicos locales:**
+    * Anuncios de media página en la sección de deportes.
+    * Se utilizarán imágenes de Monty en acción durante eventos y actividades, con mensajes que fomenten la asistencia a los juegos y eventos.
+    * Se publicarán artículos informativos sobre los jugadores del equipo, con enfoque en sus historias personales y en su compromiso con la comunidad.
+    * Se incluirá un calendario con los eventos del equipo durante el verano, así como información sobre la compra de entradas y la suscripción a la membresía del club.
+
+**Tipo de Mensajes:**
+
+* **Mensaje principal:** "Sigue a los Osos durante todo el verano con actividades para todos. ¡Únete a la diversión con Monty!"
+* **Mensajes específicos:**
+    * "Las Noches de Béisbol Familiar son la mejor manera de disfrutar del béisbol con tus seres queridos."
+    * "Monty te espera en el parque para compartir una tarde llena de juegos y risas."
+    * "¡No te pierdas el Día de Monty en el Estadio! Concursos, regalos y mucho más."
+    * "Conoce a tus Osos favoritos y apoya a nuestro equipo durante toda la temporada."
+
+**Medios de Comunicación:**
+
+* **TV local:**  Canales de noticias y programas deportivos locales.
+* **Periódicos locales:**  Secciones de deportes y comunidad.
+
+**Nota:**
+
+* Se utilizarán imágenes positivas y alegres de Monty, mostrando su carácter divertido y amigable.
+* Se evitará mencionar temas negativos, como comparaciones con otros deportes o la falta de campeonatos recientes.
+* Se buscará integrar los mensajes con eventos locales y actividades comunitarias para fortalecer el vínculo del equipo con la comunidad.
+* Se utilizará un lenguaje sencillo y directo, adecuado para la audiencia tradicional.
+
+**Resultados esperados:**
+
+* Mayor asistencia a los juegos del equipo.
+* Aumento en la participación en eventos comunitarios y actividades con Monty.
+* Fortalecimiento del vínculo del club con la comunidad.
+* Mayor conocimiento del equipo y sus jugadores.
+
+**Evaluación:**
+
+Se evaluará el impacto del programa mediante el seguimiento de:
+
+* Asistencia a los juegos.
+* Participación en eventos comunitarios.
+* Número de artículos publicados en periódicos locales.
+* Crecimiento en las redes sociales del club.
+
+**Conclusión:**
+
+Este programa mensual de marketing para los Osos de Montana se enfoca en generar un mayor engagement con la audiencia tradicional a través de un enfoque en la mascota Monty, actividades atractivas y mensajes positivos. Se espera que esta iniciativa fortalezca la presencia del club en la comunidad y genere mayor interés en el equipo, posicionándolo como una fuerza positiva en el ámbito deportivo local. 

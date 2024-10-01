@@ -1,0 +1,90 @@
+User: 
+Instrucciones:
+Actúa como un experto en marketing deportivo y elabora un programa mensual para el club de béisbol Osos de Montana. El programa debe incluir acciones concretas a desarrollar durante el mes del año proporcionado, así como los mensajes que se comunicarán a las audiencias a través de los medios de comunicación.
+Contexto:
+El objetivo es crear un programa de posicionamiento que fortalezca la presencia del club en la comunidad y genere un mayor engagement con las audiencias. Los mensajes deben ser positivos y alinearse con la imagen del equipo y su mascota, Monty.
+Tareas:
+1. Diseñar un programa mensual que incluya las acciones a desarrollar, el tipo de mensajes y los medios de comunicación adecuados para cada tipo de audiencia.
+2. Asegúrate de que los mensajes no toquen temas que el club no quiere mencionar, como comparaciones con otros deportes o la falta de campeonatos recientes.
+3. Todos los anuncios deben estar relacionados con la mascota del equipo, Monty.
+4. Identifica los medios que son frecuentados por cada tipo de audiencia, considerando las características sociodemográficas de la audiencia.
+Datos a Incluir:
+- Mes: Febrero
+- Acciones a Desarrollar: Colaboraciones con influencers deportivos juveniles
+- Tipo de Mensajes: Experiencias exclusivas y contenido digital solo para verdaderos fans.
+- Medios de Comunicación: YouTube, Twitch
+- Audiencia Objetivo: Moderna
+Ejemplo de Respuesta:
+- Mes: Enero
+- Acciones a Desarrollar: Lanzamiento de campaña en redes sociales.
+- Tipo de Mensajes: "Únete a la familia de los Osos, donde la diversión nunca se detiene."
+- Medios de Comunicación: Facebook, Instagram.
+- Audiencia Objetivo: Audiencia Moderna.
+Información Adicional:
+
+La audiencia joven, con una edad promedio de 26 años, está profundamente integrada en el ecosistema digital, lo que define sus hábitos de consumo y preferencias. Aquí te ofrezco un análisis detallado:
+1. Características Demográficas
+•	Edad: Predominan los jóvenes de entre 18 y 35 años, con un fuerte núcleo en el rango de 18 a 25 años.
+•	Género: Existe una paridad de género notable, con un 50% de hombres y 50% de mujeres, lo que subraya la importancia de generar contenido inclusivo.
+•	Ubicación: Tienden a vivir en áreas urbanas y suburbanas, cercanas a universidades y zonas metropolitanas, lo que facilita su acceso a eventos y actividades de carácter local o regional.
+•	Nivel educativo: La mayoría está en proceso o ha completado estudios universitarios, reflejando una audiencia educada con acceso a múltiples fuentes de información.
+2. Características Económicas
+•	Ingresos: Los ingresos de este grupo varían entre $30,000 y $55,000 anuales, lo que limita su capacidad de gasto en bienes de lujo, pero no en experiencias digitales y eventos relacionados con el entretenimiento y los deportes.
+•	Ocupaciones: Jóvenes trabajadores en sectores como tecnología, retail, marketing, además de estudiantes universitarios, lo que influye en sus horarios de consumo de medios, frecuentemente orientados a momentos de pausa o fuera del horario laboral.
+•	Gasto: Prefieren gastar en experiencias, tanto digitales como en vivo. Esto incluye merchandising en línea, eventos en el estadio o actividades exclusivas.
+3. Hábitos de Consumo de Medios Digitales
+•	Plataformas preferidas: Instagram, TikTok, YouTube y Twitter son las plataformas de elección. TikTok es fundamental para la viralización de contenido breve y creativo, mientras que Instagram destaca por su enfoque en imágenes y videos atractivos.
+•	Frecuencia de consumo: Son consumidores de contenido en tiempo real, siempre conectados y buscando estar al tanto de las últimas tendencias, ya sea a través de transmisiones en vivo, stories o publicaciones de alta frecuencia.
+•	Tipo de contenido: Buscan contenido visual y multimedia, con una fuerte inclinación hacia clips cortos y llamativos, contenido detrás de cámaras, videos de entretenimiento relacionados con el equipo, entrevistas con jugadores y referencias a la cultura pop.
+4. Intereses y Comportamientos
+•	Deportes: Además de seguir béisbol, su interés se extiende a deportes emergentes como el fútbol y eSports, que son vistos como más accesibles y relevantes culturalmente para esta generación.
+•	Participación en eventos: Prefieren eventos interactivos, como meet-and-greets con jugadores, experiencias de realidad aumentada o virtual y activaciones innovadoras en redes sociales, donde pueden interactuar directamente con sus ídolos o con la marca del equipo.
+•	Interacción en redes sociales: Altamente dependientes de la tecnología, se involucran activamente en la creación y compartición de contenido. Son propensos a usar hashtags, compartir memes y participar en retos virales, lo que convierte a las redes sociales en una plataforma fundamental para su conexión con los equipos deportivos.
+5. Conclusión
+Esta audiencia moderna prioriza las experiencias sobre la posesión de bienes, buscando una conexión auténtica con los equipos a través de medios digitales. Su interacción en tiempo real, la inclinación hacia el contenido visual y su deseo de participar en experiencias innovadoras son clave para captar su atención y mantener su lealtad hacia el equipo. Las estrategias de marketing deben estar centradas en la creación de contenido atractivo, dinámico y participativo, aprovechando las plataformas sociales y el deseo de esta audiencia de formar parte de comunidades digitales vibrantes y activas.
+
+Bot: ## Programa Mensual para los Osos de Montana - Febrero
+
+**Objetivo:** Fortalecer la presencia del club en la comunidad y generar un mayor engagement con la audiencia joven.
+
+**Mes:** Febrero
+
+**Acciones a Desarrollar:**
+
+* **Colaboraciones con influencers deportivos juveniles:** Identificar y contactar a 3 influencers de deportes, con un enfoque en el béisbol, que sean relevantes para la audiencia joven. Realizar colaboraciones para videos de YouTube y Twitch, donde los influencers compartan su pasión por el béisbol y destaquen la cultura del equipo.
+* **"Monty's Exclusive Club":** Lanzar una comunidad online en Discord (o plataforma similar) exclusiva para los "verdaderos fans". Ofrecer acceso a contenido exclusivo, como transmisiones en vivo con jugadores, entrevistas, detrás de cámaras y concursos con premios relacionados con el equipo.
+* **"Monty's Trivia Night":** Organizar una trivia virtual con Monty como anfitrión, a través de Twitch. Ofrecer premios a los participantes y oportunidades para interactuar con los jugadores del equipo.
+* **"Fan Art Challenge":** Incentivar a la audiencia a crear fan art de Monty con un concurso a través de Instagram. Los mejores diseños serán utilizados en merchandising digital o en redes sociales.
+
+**Tipo de Mensajes:**
+
+* **"Únete a la experiencia de los Osos. Monty te espera en su club exclusivo."**
+* **"Comparte tu pasión por el béisbol con Monty en sus streams exclusivos."**
+* **"Muestra tu talento con Monty en el Fan Art Challenge. ¡Tu arte podría ser el próximo merchandising!"**
+* **"Pón a prueba tus conocimientos con Monty en la Trivia Night."**
+
+**Medios de Comunicación:**
+
+* **YouTube:** Videos con influencers y contenido exclusivo para "Monty's Exclusive Club".
+* **Twitch:** Transmisiones en vivo de eventos, entrevistas, "Monty's Trivia Night" y detrás de cámaras.
+* **Instagram:** Anuncios del "Fan Art Challenge", publicaciones de los diseños ganadores y engagement con la audiencia.
+* **Discord:** Comunidad "Monty's Exclusive Club" para el contenido exclusivo.
+
+**Audiencia Objetivo:**
+
+* **Audiencia Moderna:** Jóvenes de 18 a 35 años, con un fuerte núcleo en el rango de 18 a 25 años, altamente integrados en el ecosistema digital.
+
+**Notas:**
+
+* Se debe asegurar que todos los anuncios estén relacionados con Monty, la mascota del equipo, utilizando un lenguaje positivo y sin mencionar temas sensibles como comparaciones con otros deportes o la falta de campeonatos recientes.
+* Se debe priorizar contenido visual, clips cortos, entretenimiento relacionado con el equipo, entrevistas con jugadores y referencias a la cultura pop.
+* Se debe utilizar hashtags relevantes para aumentar el alcance en las redes sociales.
+* Se debe realizar un seguimiento de la interacción con la audiencia y ajustar la estrategia según sea necesario.
+
+**Ejemplo de Anuncio para Instagram:**
+
+**Imagen:** Monty con una expresión divertida sosteniendo un lienzo de arte.
+
+**Texto:** "¡Prepárate para mostrar tu lado artístico! 🎨 ¡Es hora del Fan Art Challenge! ¡Crea tu mejor obra de arte con Monty y podrás ganar increíbles premios! 🏆 ¡Comparte tu creación con el hashtag #MontysFanArt y únete a la diversión! 🙌"
+
+**Mensaje clave:** Este anuncio es atractivo para la audiencia joven, se centra en la mascota del equipo, fomenta la interacción y destaca la oportunidad de ganar premios.
