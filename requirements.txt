@@ -1,0 +1,3 @@
+google-generativeai
+streamlit
+llama-index
